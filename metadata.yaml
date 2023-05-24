@@ -1,5 +1,8 @@
 _repo: Aesthetical-and-philosophical-essays-b-introducing-the-dissertation-on-the-connection-between__70669
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70669-h/images/cover.jpg
 creator:
   author:
     agent_name: Schiller, Friedrich
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Friedrich_Schiller
     - https://de.wikipedia.org/wiki/Friedrich_Schiller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70669#Aesthetical-and-philosophical-essays-b-introducing-the-dissertation-on-the-connection-between_
 gutenberg_issued: '2023-04-29'
 identifiers:
   gutenberg: '70669'
